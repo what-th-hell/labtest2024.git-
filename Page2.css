@@ -1,0 +1,62 @@
+.container {
+    margin-top: 20px;
+    border: 2px solid green;
+    border-radius: 17px;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 25px;
+}
+.LabTest {
+    font-size: 25px;
+    font-weight: bold;
+}
+.Name{
+    margin-top: 20px;
+}
+i{
+    color: red;
+}
+.container2{
+    margin-top: 20px;
+    border: 2px solid green;
+    border-radius: 17px;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 25px;
+}
+.Test1,
+.Test2,
+.Test3{
+    display: inline-block;
+}
+.Test3 a {
+    color: blue;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 15px;
+}
+.Test2 a {
+    color: blue;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 15px;
+}
+.Test1 a {
+    color: blue;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 15px;
+}
+.container4{
+    background-color: green;
+    margin-top: 20px;
+    color: yellow;
+    border-radius: 17px;
+}
+.Copy{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 5px;
+}
